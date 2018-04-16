@@ -1,0 +1,12 @@
+.blue {
+	color: rgb(0, 229, 255);
+}
+
+.image {
+	height: 200px;
+	width: 200px;
+	border: black;
+	border-style: solid;
+	border-radius: 50%;
+
+}
