@@ -1,5 +1,7 @@
+
 .blue {
-	color: rgb(0, 229, 255);
+	font-family: 'Carter One', cursive;
+	color: rgb(215, 229, 232);
 }
 
 .image {
@@ -18,4 +20,9 @@
 
 #portfolio {
   	margin-top: 0.5em;
+}
+
+#body {
+	font-family: 'Carter One', cursive;
+	background: rgb(74, 208, 232);
 }
