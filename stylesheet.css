@@ -4,7 +4,7 @@ div.panel-body {
 
 
 .blue {
-	font-family: 'Carter One', cursive;
+	font-family: 'Montserrat', sans-serif;
 	color: rgb(215, 229, 232);
 }
 
@@ -27,7 +27,8 @@ div.panel-body {
 }
 
 #body {
-	font-family: 'Carter One', cursive;
+	font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
 	background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
 }
 
